@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+logs/
+.DS_Store
+data/
+
+
+.astro/
+logs/
+
+include/dbt/triplens_dbt/target/
+include/dbt/triplens_dbt/logs/
+
+data/*.json

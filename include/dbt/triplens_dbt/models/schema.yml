@@ -1,0 +1,13 @@
+version: 2
+
+models:
+  - name: countries_analytics
+    columns:
+      - name: uuid
+        tests:
+          - not_null
+          - unique
+
+      - name: country_name
+        tests:
+          - not_null

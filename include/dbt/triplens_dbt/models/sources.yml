@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: silver
+    database: TRIPLENS_DB
+    schema: SILVER
+
+    tables:
+      - name: countries
+        identifier: COUNTRIES
