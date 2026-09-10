@@ -4,7 +4,7 @@ TripLens is an end-to-end data engineering project that collects country-level i
 
 The project is designed to provide travelers and travel-related businesses with a centralized way to explore information such as regions, capitals, population, currencies, languages, time zones, neighbouring countries, and other country attributes.
 
----
+---------
 
 ## Project Objectives
 
